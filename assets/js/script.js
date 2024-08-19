@@ -1,6 +1,6 @@
 const minutes = 10;
 let time = minutes * 60; // 10 minutos em segundos
-let vagas = 10; // Número inicial de vagas
+let vagas = 20; // Número inicial de vagas
 
 const countdownElement = document.querySelector('.countdown');
 const vagasElement = document.querySelector('.vagas');
